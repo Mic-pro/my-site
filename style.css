@@ -47,7 +47,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 180px;
+  margin-bottom: 480px;
 }
 
 .hero-image .container {
@@ -59,7 +59,6 @@ body {
   margin: 0 0 24px;
   font-size: 80px;
   line-height: 96px;
-  border-bottom: 1px solid white;
 }
 
 .hero-image p {
@@ -73,12 +72,10 @@ body {
 }
 
 .subheading {
-  margin: 0 0 110px;
+  margin: 0 0 56px;
   font-size: 56px;
   line-height: 80px;
   text-align: center;
-  text-decoration: underline;
-  padding: 0px;
 }
 
 .user-image {
@@ -171,7 +168,6 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #260c26;
-  text-align: center;
 }
 
 .page-footer a {
